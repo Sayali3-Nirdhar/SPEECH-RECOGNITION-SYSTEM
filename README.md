@@ -50,3 +50,6 @@ void loop() {
 }
 
 # output of task 4
+![Image](https://github.com/user-attachments/assets/d71c158b-b461-431e-b972-107e924f7091)
+
+![Image](https://github.com/user-attachments/assets/3493ebc1-10f4-44e5-9dce-a739039bd1b6)
